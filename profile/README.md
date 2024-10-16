@@ -1,6 +1,6 @@
 # **Welcome To Mist! A CubeSat Organization**
 
-## MIST is a completely open source CubeSat project meant for students with multiple fields of study or areas of expertise.
+### MIST is a completely open source CubeSat project meant for students with multiple fields of study or areas of expertise.
 
 <!--
 
